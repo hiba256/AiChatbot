@@ -1,0 +1,9 @@
+streamlit
+crewai
+python-dotenv
+google-genai
+crewai[tools]
+fastapi
+uvicorn
+python-multipart
+markdown
